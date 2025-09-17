@@ -20,28 +20,28 @@ const ChatInterface = () => {
       id: "1",
       sender: "patient",
       content: "Olá! Gostaria de remarcar minha consulta para próxima semana.",
-      timestamp: "14:30",
+      timestamp: "09:30",
       channel: "whatsapp"
     },
     {
       id: "2", 
       sender: "agent",
       content: "Olá Maria! Claro, vou verificar nossa agenda. Qual seria o melhor dia e horário para você?",
-      timestamp: "14:32",
+      timestamp: "09:32",
       channel: "whatsapp"
     },
     {
       id: "3",
       sender: "patient", 
       content: "Teria vaga na terça-feira pela manhã?",
-      timestamp: "14:35",
+      timestamp: "09:35",
       channel: "whatsapp"
     },
     {
       id: "4",
       sender: "agent",
       content: "Vou consultar... Temos disponibilidade terça às 09:30. Confirmo para você?",
-      timestamp: "14:37",
+      timestamp: "09:37",
       channel: "whatsapp"
     }
   ];

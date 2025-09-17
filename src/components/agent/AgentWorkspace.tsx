@@ -118,7 +118,7 @@ const AgentWorkspace = () => {
             <div className="text-sm space-y-1">
               <div className="flex justify-between">
                 <span className="text-muted-foreground">Última consulta:</span>
-                <span>15/12/2024</span>
+                <span>15/09/2025</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-muted-foreground">Especialidade:</span>
